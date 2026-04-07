@@ -1,8 +1,6 @@
 import { useState } from "react";
 import "./About.css";
 import Skills from "./Skills";
-import frontPhoto from "../../assets/images/WhatsApp Image 2026-04-07 at 7.20.29 AM.jpeg";
-import backPhoto from "../../assets/images/WhatsApp Image 2026-04-07 at 7.20.30 AM.jpeg";
 
 function About() {
 
@@ -27,13 +25,13 @@ function About() {
             {/* FRONT IMAGE */}
 
             <div className="photo-front">
-              <img src={frontPhoto} alt="John Britto front" />
+              <img src="/Photo.png" alt="Profile" />
             </div>
 
             {/* BACK IMAGE */}
 
             <div className="photo-back">
-              <img src={backPhoto} alt="John Britto back" />
+              <img src="/img4.png" alt="Profile Back" />
             </div>
 
           </div>

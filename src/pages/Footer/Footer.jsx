@@ -12,9 +12,9 @@ function Footer(){
 
         <div className="social-icons">
 
-          <a href="#"><FaGithub/></a>
+          <a href="https://github.com/Britto-024" target="_blank" rel="noreferrer"><FaGithub/></a>
           <a href="https://linkedin.com/in/johnbritto20" target="_blank" rel="noreferrer"><FaLinkedin/></a>
-          <a href="#"><FaInstagram/></a>
+          <a href="https://www.instagram.com/britto_024?igsh=MTc5NXFxMDUyOW15dg==" target="_blank" rel="noreferrer"><FaInstagram/></a>
 
         </div>
 

@@ -36,8 +36,8 @@ function Header() {
             </ul>
 
             <ul className="icons">
-                <li><a href="#"><FontAwesomeIcon icon={faGithub} /></a></li>
-                <li><a href="#"><FontAwesomeIcon icon={faInstagram} /></a></li>
+                <li><a href="https://github.com/Britto-024" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a></li>
+                <li><a href="https://www.instagram.com/britto_024?igsh=MTc5NXFxMDUyOW15dg==" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a></li>
                 <li><a href="https://linkedin.com/in/johnbritto20" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
             </ul>
         </header>
