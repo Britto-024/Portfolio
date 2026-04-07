@@ -1,0 +1,9 @@
+{
+  "name": "john-britto-portfolio",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
