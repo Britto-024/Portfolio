@@ -25,13 +25,13 @@ function About() {
             {/* FRONT IMAGE */}
 
             <div className="photo-front">
-              <img src="img3.png" alt="" />
+              <img src="/Photo.png" alt="Profile" />
             </div>
 
             {/* BACK IMAGE */}
 
             <div className="photo-back">
-              <img src="img4.png" alt="" />
+              <img src="/img4.png" alt="Profile Back" />
             </div>
 
           </div>
